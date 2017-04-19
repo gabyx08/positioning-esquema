@@ -1,0 +1,36 @@
+.grande{
+	width: 300px;
+	height: 300px;
+	margin: 30px;
+	position: relative;
+}
+	.coral{
+		background-color: salmon;
+	}
+	.azul{
+		background-color: blue;
+	}
+.mediano{
+	width: 180px;
+	height: 180px;
+	position: absolute;
+	left: 20%;
+	top: 20%;
+}
+	.morado{
+		background-color: purple;
+	}
+	.verde{
+		background-color: green;
+	}
+.pequeño{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+}
+	.amarillo{
+		background-color: yellow;
+	}
+	.negro{
+		background-color: black;
+	}
